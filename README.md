@@ -5,4 +5,4 @@ This guide provides a concise walkthrough for setting up Miniconda with GPU supp
 
 ## refrence
 
-[Harveen Singh Chadha]([https://link-url-here.org](https://towardsdatascience.com/tensorflow-gpu-installation-made-easy-use-conda-instead-of-pip-52e5249374bc)https://towardsdatascience.com/tensorflow-gpu-installation-made-easy-use-conda-instead-of-pip-52e5249374bc)
+[TensorFlow GPU Installation Guide using Conda](https://towardsdatascience.com/tensorflow-gpu-installation-made-easy-use-conda-instead-of-pip-52e5249374bc)
